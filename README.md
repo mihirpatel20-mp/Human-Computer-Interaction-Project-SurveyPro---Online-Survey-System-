@@ -49,7 +49,7 @@ After extracting the files, follow these steps to start using SurveyPro:
 
 
 ## Demo
-View the demonstration of the website: [SurveyPro Demo](https://drive.google.com/file/d/1_F1BDiDFcxek77mKz7lXpymhHz9MENbZ/view?usp=sharing)
+View the demonstration of the website: [![SurveyPro Demo](https://link-to-demo-thumbnail.jpg)](https://drive.google.com/file/d/1_F1BDiDFcxek77mKz7lXpymhHz9MENbZ/view?usp=sharing)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
