@@ -13,13 +13,13 @@ Welcome to the README for SurveyPro, an online survey system website designed to
 SurveyPro is an online survey system website that allows users to create, manage, and conduct surveys. It provides a user-friendly interface for both survey creators and respondents.
 
 ## Project Documents
-1. [Project Phase #1 - Proposal](Project_Phase_1_Proposal.docx)
-2. [Project Phase #2 - Needs And Requirements](Project_Phase_2_Needs_And_Requirements.docx)
-3. [Project Phase #3 - Designing Alternatives](Project_Phase_3_Designing_Alternatives.docx)
-4. [Project Phase #4 - Prototyping](Project_Phase_4_Prototyping.docx)
-5. [Project Phase #5 - Evaluation](Project_Phase_5_Evaluation.docx)
-6. [Project Phase #6 - Presentation](Project_Phase_6_Presentation.pptx)
-7. [Project Phase #6 - Revised Manual](Project_Phase_6_Revised_Manual.docx)
+1. [Project Phase #1 - Proposal](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%231-Proposal.docx)
+2. [Project Phase #2 - Needs And Requirements](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%232-Needs%20And%20Requirements.docx)
+3. [Project Phase #3 - Designing Alternatives](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%233-Designing%20Alternatives.docx)
+4. [Project Phase #4 - Prototyping](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%234-Prototyping.docx)
+5. [Project Phase #5 - Evaluation](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%235-Evaluation.docx)
+6. [Project Phase #6 - Presentation](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%236-Presentation.pptx)
+7. [Project Phase #6 - Revised Manual](https://github.com/mihirpatel20-mp/Human-Computer-Interaction-Project-SurveyPro---Online-Survey-System-/blob/main/Project%20Phase%20%236-Revised%20Manual.docx)
 
 ## Installation Instructions
 ### Extraction of ZIP File
@@ -47,12 +47,12 @@ After extracting the files, follow these steps to start using SurveyPro:
 6. Share respondent IDs and passwords for survey participation.
 7. Collect survey responses and declare survey completion.
 
-## Bibliography
-- Bostock, M. (n.d.). D3.js - Data-Driven Documents. [https://d3js.org/](https://d3js.org/)
-- Free visual Sitemap generator from URL & XML Sitemap creator. (n.d.). Octopus.do, Visual Sitemap Tool, Website Planner, Architecture. [https://octopus.do/sitemap/resource/generator](https://octopus.do/sitemap/resource/generator)
-- ... (add more references)
 
 ## Demo
 View the demonstration of the website: [SurveyPro Demo](https://drive.google.com/file/d/1_F1BDiDFcxek77mKz7lXpymhHz9MENbZ/view?usp=sharing)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 
 We appreciate your interest in SurveyPro!
